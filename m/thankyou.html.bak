@@ -43,7 +43,7 @@
  style="font-weight: bold;">We will shortly get in touch with you.<br></span></p><p><br></p><h3
 
  style="text-align: center;"><a  href="index.html">BACK TO HOME PAGE</a></h3>
-<p><br></p></div></div></div></div><div  class="footer"><strong>2019 © ASK Training Consultants </strong></div><script
+<p><br></p></div></div></div></div><div  class="footer"><strong>2017 &copy; ASK Training Consultants </strong></div><script
 
  type="text/javascript">	$('.menu').hide();	$('.menu-show').show();	$('.menu-hide').hide();	$('.menu-show').click(function(){		$('.menu-show').toggle();		$('.menu-hide').toggle();		$('.menu').slideDown();	});	$('.menu-hide').click(function(){		$('.menu-hide').toggle();		$('.menu-show').toggle();		$('.menu').slideUp();	});</script>
 
